@@ -1,0 +1,38 @@
+[
+    {
+        "name": "parrot",
+        "id": 1,
+        "price": 3000,
+        "image": "https://i.ibb.co/SNFsmy9/closeup-shot-colorful-parrot-with-big-green-leaves.jpg"
+    },
+    {
+        "name": "parrot",
+        "id": 2,
+        "price": 3000,
+        "image": "https://i.ibb.co/SNFsmy9/closeup-shot-colorful-parrot-with-big-green-leaves.jpg"
+    },
+    {
+        "name": "parrot",
+        "id": 3,
+        "price": 3000,
+        "image": "https://i.ibb.co/SNFsmy9/closeup-shot-colorful-parrot-with-big-green-leaves.jpg"
+    },
+    {
+        "name": "parrot",
+        "id": 4,
+        "price": 3000,
+        "image": "https://i.ibb.co/SNFsmy9/closeup-shot-colorful-parrot-with-big-green-leaves.jpg"
+    },
+    {
+        "name": "parrot",
+        "id": 5,
+        "price": 3000,
+        "image": "https://i.ibb.co/SNFsmy9/closeup-shot-colorful-parrot-with-big-green-leaves.jpg"
+    },
+    {
+        "name": "parrot",
+        "id": 6,
+        "price": 3000,
+        "image": "https://i.ibb.co/SNFsmy9/closeup-shot-colorful-parrot-with-big-green-leaves.jpg"
+    }
+]
